@@ -1,0 +1,15 @@
+{
+  "name": "webhookreceiver",
+  "version": "1.0.0",
+  "description": "Node app to receive webhooks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Perforce Software, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "https": "^1.0.0"
+  }
+}
